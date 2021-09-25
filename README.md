@@ -6,3 +6,5 @@
 * Styled CSS  by removing repetitions and integrating code effectively.
 * Introduced ALT attribute to make images accessible
 * Reference material :w3 schools
+
+Screenshot
