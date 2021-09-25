@@ -9,4 +9,4 @@
 
 Screenshot
 
-<img src="./Horiseon.JPEG">
+<img src="./Horiseon.JPG">
