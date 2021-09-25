@@ -1,5 +1,5 @@
  # Horiseon -Code Refactor
- 
+ * A code refactor HW
  * Deployed Repo : https://github.com/JudyMotha/horiseon
  * Deployed Site:https://judymotha.github.io/horiseon/
 * This project  made me learn and work around Semantic HTML elements like article ,aside ,section ,figure which define different parts of a web page.
